@@ -1,3 +1,4 @@
+//마스터
 package edu.bit.ex;
 
 import java.text.DateFormat;
@@ -15,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Handles requests for the application home page.
  */
 
-//마스터
+
 
 //#5 수정
 //#4 수정
