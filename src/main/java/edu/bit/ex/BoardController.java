@@ -39,6 +39,7 @@ public class BoardController {
 		return "home";
 	}
 	
+	//#5
 	public String boarddelete(Locale locale, Model model) {
 		logger.info("Welcome home! The client locale is {}.", locale);
 		
